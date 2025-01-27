@@ -1,4 +1,4 @@
-Hi there! 👋 I'm [Your Name]
+Hi there! 👋 I'm Gabriel Gonzalez
 
 🎓 Computer Engineering Student at Virginia Tech💻 Aspiring Software Engineer passionate about Systems Software, Cloud Software, and Machine Learning
 
@@ -36,7 +36,7 @@ Check out my portfolio website: YourPortfolioLinkHereThis website is built with 
 
 📫 Let's Connect
 
-🌐 Portfolio: YourPortfolioLinkHere
+🌐 Portfolio: 
 
 💼 LinkedIn: YourLinkedInLinkHere
 
