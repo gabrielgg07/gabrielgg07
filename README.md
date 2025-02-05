@@ -28,7 +28,7 @@ Other: QEMU, GRUB, system emulation tools
 
 🌐 My Portfolio
 
-Check out my portfolio website: YourPortfolioLinkHereThis website is built with Vite + React and hosted on Netlify. It showcases my projects, resume, and more about me!
+Check out my portfolio website: [HERE](https://gabriel-gonzalez-portfolio.netlify.app/) This website is built with Vite + React and hosted on Netlify. It showcases my projects, resume, and more about me!
 
 📈 GitHub Stats
 
@@ -36,11 +36,11 @@ Check out my portfolio website: YourPortfolioLinkHereThis website is built with 
 
 📫 Let's Connect
 
-🌐 Portfolio: 
+🌐 Portfolio: [HERE](https://gabriel-gonzalez-portfolio.netlify.app/)
 
-💼 LinkedIn: YourLinkedInLinkHere
+💼 LinkedIn: [YourLinkedInLinkHere](https://www.linkedin.com/in/gabrielg22/)
 
-📧 Email: YourEmailHere
+📧 Email: gabrielg22@vt.edu
 
 Thanks for visiting my GitHub profile! 😊
 
